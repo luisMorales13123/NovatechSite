@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const CargoTecnico_1 = require("../controlador/CargosTecnico/CargoTecnico");
+const router = (0, express_1.Router)();
+router.get('/CargoTecnico', CargoTecnico_1.gets);
+router.get('/CargoTecnico/:id', CargoTecnico_1.get);
+router.delete('/CargoTecnico/:id', CargoTecnico_1.Delete);
+router.post('/CargoTecnico/', CargoTecnico_1.Post);
+router.put('/CargoTecnico/:id', CargoTecnico_1.Update);
+exports.default = router;
