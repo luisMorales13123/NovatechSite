@@ -1,1 +1,0 @@
-{"version":3,"file":"error404.component.js","sourceRoot":"","sources":["../../../../../../src/app/componentes/error404/error404.component.ts"],"names":[],"mappings":";AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAC;AAOnC,IAAM,iBAAiB,GAAvB,MAAM,iBAAiB;CAE7B,CAAA;AAFY,iBAAiB;IAL7B,SAAS,CAAC;QACT,QAAQ,EAAE,cAAc;QACxB,WAAW,EAAE,2BAA2B;QACxC,QAAQ,EAAE,0BAA0B;KACrC,CAAC;GACW,iBAAiB,CAE7B"}
